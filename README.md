@@ -7,7 +7,7 @@ Rite-Track-Compatible Hardware
 
 Printing
 ========
-The case runner should be printed with supports.
+The case runner can be printed without supports if you printer can manage short overhangs.
 
 The socket is printed in two pieces to avoid requiring excessive support material. After printing, either use acetone to bond the two pieces back-to-back (if using ABS) or superglue for any other material.
 
